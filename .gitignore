@@ -1,0 +1,27 @@
+# Keil MDK build outputs
+Listings/
+Objects/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.lnp
+*.lst
+*.plg
+*.htm
+*.iex
+*.sct
+*.scvd
+
+# Debug config
+DebugConfig/
+RTE/
+
+# OS
+Thumbs.db
+Desktop.ini
